@@ -1,0 +1,8 @@
+yaml
+name: xeus-env
+channels:
+  - conda-forge
+dependencies:
+  - xeus
+  - xeus-cling
+  - ipywidgets
