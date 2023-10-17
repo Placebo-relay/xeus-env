@@ -6,3 +6,4 @@ dependencies:
   - xeus
   - xeus-cling
   - ipywidgets
+  - gcc=9.4.0
